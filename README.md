@@ -9,7 +9,7 @@ Used technologies
 
 4-TypeOrm
 
-## backup.sql is a backup file .. you can use this backup  by restoring it by postgresql
+### backup.sql is a backup file .. you can use this backup  by restoring it by postgresql
 Steps to run this project:
 
 Run npm i command
